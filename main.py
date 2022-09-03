@@ -59,7 +59,7 @@ root.minsize(350, 100)
 root.maxsize(350, 100)
 root.title("CTR")
 
-currencyName = ['Euro', 'Dollar', 'Yen', 'Bel.Ruble', 'BTC', 'ETH']
+currencyName = ['Euro', 'Dollar', 'Yen', 'Byn', 'BTC', 'ETH']
 
 currencyVAR = IntVar()
 currencyVAR.set(0)
